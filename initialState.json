@@ -1,0 +1,25 @@
+{
+  "title": "Remuera Flat",
+  "members": [
+    {
+      "name" : "Nicole",
+      "status": "IN"
+    },
+    {
+      "name" : "Alex",
+      "status": "IN"
+    },
+    {
+      "name" : "Beardmore",
+      "status": "OUT"
+    },
+    {
+      "name" : "Melody",
+      "status": "IN"
+    },
+    {
+      "name" : "Harrison",
+      "status": "OUT"
+    }
+  ]
+}

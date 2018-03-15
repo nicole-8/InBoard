@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb",
+    "rules": {
+      "semi": ["error", "always"],
+      "extensions": ["never"],
+      "react/jsx-filename-extension": ["never"],
+      "react/forbid-prop-types": ["never"],
+      "react/no-array-index-key": ["never"]
+    },
+    "env": {
+      "browser": true,
+      "node": true
+    }
+}

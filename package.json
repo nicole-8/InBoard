@@ -1,0 +1,55 @@
+{
+  "name": "inboard",
+  "version": "1.0.0",
+  "description": "An application that mimics an in-out board for flatmates",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicole-8/InBoard.git"
+  },
+  "author": "Nicole Cashen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicole-8/InBoard/issues"
+  },
+  "homepage": "https://github.com/nicole-8/InBoard#readme",
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel": "^6.5.2",
+    "babel-cli": "^6.16.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "json-loader": "^0.5.4",
+    "node-sass": "^3.10.1",
+    "optimize-css-assets-webpack-plugin": "^1.3.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1",
+    "minimist": "^1.2.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-icons": "^2.2.1",
+    "react-redux": "^5.0.7",
+    "react-router": "^2.8.1",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "uikit": "^3.0.0-beta.40"
+  }
+}
